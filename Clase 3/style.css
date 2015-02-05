@@ -1,0 +1,38 @@
+/*main{
+	display: table;
+	caption-side: top;
+}
+
+	header{
+		display: table-cell;
+	}
+
+	section{
+		display: table-row;
+		background-color: maroon;
+		width: 80%;
+	}
+
+	aside {
+		display: table-cell;
+		background-color: peru;
+		width: 20%;
+	}*/
+
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.wheater-card{
+	background-color: #80EAE8;
+}
+	.whaeter-card__header{
+		margin: 0;
+	}
+
+	.whaeter-card__footer{
+		margin: 0;
+		padding: 0;
+		list-style-type: none;
+	}
